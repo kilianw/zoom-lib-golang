@@ -13,7 +13,7 @@ type AddMemberOptions struct {
 
 // Member represents an group member
 type Member struct {
-	ID    string `json:"id"`
+	ID    string `json:"id,omitempty"`
 	Email string `json:"email"`
 }
 

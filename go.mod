@@ -1,4 +1,4 @@
-module github.com/zoom-lib-golang/zoom-lib-golang
+module github.com/kilianw/zoom-lib-golang
 
 go 1.16
 
